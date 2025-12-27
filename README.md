@@ -6,8 +6,4 @@ Senior software engineer specializing in backend systems, cloud infrastructure, 
 
 **Focus areas:** Python, Go, AWS/GCP, Kubernetes, ETL pipelines
 
-**Find me:**
-
-- [LinkedIn](https://linkedin.com/in/mattalxndr)
-- [StackOverflow](your-link) - 45k+ reputation
-- [mattalxndr.me](https://mattalxndr.me)
+**Find me:** [LinkedIn](https://linkedin.com/in/mattalxndr) [mattalxndr.me](https://mattalxndr.me)
