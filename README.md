@@ -1,6 +1,6 @@
 ## Hello
 
-Senior software engineer specializing in backend systems, cloud infrastructure, and distributed systems.
+Software engineer specializing in backend systems, cloud infrastructure, and distributed systems.
 
 **Currently:** Available for contract or full-time roles
 
